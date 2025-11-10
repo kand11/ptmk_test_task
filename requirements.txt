@@ -1,0 +1,5 @@
+mysql-connector==2.2.9
+mysql-connector-python==9.5.0
+numpy==2.3.4
+setuptools==80.9.0
+wheel==0.45.1

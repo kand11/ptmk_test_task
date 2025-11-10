@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS employees (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    full_name VARCHAR(60) NOT NULL,
+    birth_date DATETIME NOT NULL,
+    sex VARCHAR(10) NOT NULL
+);
